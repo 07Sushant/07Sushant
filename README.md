@@ -12,7 +12,7 @@
  
  ## TOP NEW PROJECTS
  My Recent Projects: <br>
- <a href="https://enally.in/sushant">1. Portfolio</a> Visit <a href='https://public.sn.files.1drv.com/y4maDBVesYMcmf7L0XAP_Evhr_G9D0uY8lbEGruBWqfQWA06FCf-WUUFlqkz3CufKRxv0zqO70BmNvRjHZLncnFi1742yWXRLw93OWB_I8PrfJyNRose2_TtljFcx1NdF5o8Yi3ihTjfHAZ1oTvbXJa_SXHlpS2GiV11p6XwT1Vo2tCsbS42Ez8nu38mlsPub3AnYovDWMRX5Uyr5xrhGHZ3ptwVp5pwAmc0IkWU0qytaA'>My Resume</a><br>
+ <a href="https://enally.in/sushant">1. Portfolio</a> Visit <a href='https://1drv.ms/b/s!ArbngJE8urocgYYKShrZgZO6VeFXLA'>My Resume</a><br>
  <a href="https://www.linkedin.com/posts/07sushant_a-hands-free-voice-enabled-device-that-tell-activity-7018974459038478336-uj32?utm_source=share&utm_medium=member_desktop%22%3E2">2. Voice Enabled Temperature Sensor</a></a><br>
  <a href="https://umssushant.netlify.app">3. University Management System</a><br>
 <br>
