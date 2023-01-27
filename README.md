@@ -117,7 +117,7 @@
 
 <a href="https://www.linkedin.com/in/07Sushant/">
 
-![](https://github.com/07Sushant/07Sushant/blob/main/assets/footer2.png)
+![](https://export-download.canva.com/UgFSs/DAFY26UgFSs/6/0/0001-45936188259.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230127T045551Z&X-Amz-Expires=31413&X-Amz-Signature=f5a87a50b17f4e7d4f9d00ec7a594dc389a960dd613a816f42ca06f93e0f77d1&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Follow%252007SushAnt.png&response-expires=Fri%2C%2027%20Jan%202023%2013%3A39%3A24%20GMT)
 
 </a>
 
