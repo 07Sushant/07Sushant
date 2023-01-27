@@ -11,23 +11,22 @@
  </center>
  
  ## TOP NEW PROJECTS
- My Recent Projects with Backend: <br>
- <a href="https://diligentcreator.ml/">1. Diligent Creators</a> Visit <a href='https://diligentcreator.ml/u/admin'>My Resume</a><br>
- <a href="https://enally.in/files-manager/">2. Classroom Bucket</a><br>
- <a href="https://enally.in/files-manager/myclassbot">3. My Class Bot - ONLINE STUDENTS MUST WATCH</a><br>
- 4. More <a href="https://enally.in/">Link 1</a> & <a href="https://enally.in/files-manager/project-page">Link 2</a><br>
+ My Recent Projects: <br>
+ <a href="https://enally.in/sushant">1. Portfolio</a> Visit <a href='https://public.sn.files.1drv.com/y4maDBVesYMcmf7L0XAP_Evhr_G9D0uY8lbEGruBWqfQWA06FCf-WUUFlqkz3CufKRxv0zqO70BmNvRjHZLncnFi1742yWXRLw93OWB_I8PrfJyNRose2_TtljFcx1NdF5o8Yi3ihTjfHAZ1oTvbXJa_SXHlpS2GiV11p6XwT1Vo2tCsbS42Ez8nu38mlsPub3AnYovDWMRX5Uyr5xrhGHZ3ptwVp5pwAmc0IkWU0qytaA'>My Resume</a><br>
+ <a https://www.linkedin.com/posts/07sushant_a-hands-free-voice-enabled-device-that-tell-activity-7018974459038478336-uj32?utm_source=share&utm_medium=member_desktop">2. Voice Enabled Temperature Sensor Device </a><br>
+ <a href="https://umssushant.netlify.app">3. University Management System</a><br>
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/07Sushant/07Sushant/blob/main/assets/keep_coding.gif">
 
 ![](https://komarev.com/ghpvc/?username=07Sushant&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
 
-### I am a web developer
+### Siftware Engineer
 
-- 👨‍🏭 I’m currently pursuing **B-Tech** <br>
-- 🏫 I’m currently learning **Python Web Devlopment and DSA** <br>
+- 👨‍🏭 A B-Tech undergrad majoring in **CSE** <br>
+- 🏫 I’m currently learning **Python, Web Devlopment, C and Cyber Security** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
-- 🤔 I’m looking for help with **DSA and Competitive Programing**<br>
-- 🥅 2022 Goals: **To learn get myself handy with multiple languages** <br>
+- 🥅 2023 Goals: **To maximize my productivity and gain more and more knowledge in the domain of CSEI love challenges because everything that kills me makes me feel alive.
+"** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 
@@ -109,7 +108,7 @@
 <p align="center">
 <a href="https://diligentcreator.ml/u/admin" target="_blank">
  
-![](https://github.com/07Sushant/07Sushant/blob/main/assets/profile-cloud.png)
+![](https://export-download.canva.com/8CAqI/DAFY258CAqI/3/0/0001-45935265697.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230127T090616Z&X-Amz-Expires=13065&X-Amz-Signature=572753e486477db1af9140e8d1a4f834d9d6b215e7db41a5492f9608ff44ecc2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Untitled%2520design.png&response-expires=Fri%2C%2027%20Jan%202023%2012%3A44%3A01%20GMT)
   
 </a>
 </p>
