@@ -20,10 +20,10 @@
 
 ![](https://komarev.com/ghpvc/?username=07Sushant&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
 
-### Siftware Engineer
+### Software Engineer
 
 - 👨‍🏭 A B-Tech undergrad majoring in **CSE** <br>
-- 🏫 I’m currently learning **Python, Web Devlopment, C and Cyber Security** <br>
+- 🏫 I’m currently learning **Python, Web Devlopment, C, MySQL and Cyber Security** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
 - 🥅 2023 Goals: **To maximize my productivity and gain more and more knowledge in the domain of CSEI love challenges because everything that kills me makes me feel alive.
 "** <br>
