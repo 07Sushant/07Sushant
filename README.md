@@ -1,12 +1,12 @@
 ![](https://github.com/07Sushant/07Sushant/blob/main/assets/header.png)
 
 <h1 align="center">
-नमस्ते (Namaste), I'm Sushant Kumar <img src="https://github.com/07Sushant/07Sushant/blob/main/assets/coding_.png" width="50px"> <br>
+नमस्ते (Namaste), Hi there, Sushant  <img src="https://github.com/07Sushant/07Sushant/blob/main/assets/coding_.png" width="50px"> <br>
 </h1>
 
-<center>
+<p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7DE16&size=22&center=true&width=500&lines=Graphic-Designer+Web+Developer;Always+learning+new+things;Join+Me+on;Website+-+Enally.in)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;B-Tech-Undergrad+Software+Engineer;Always+Learning+New+Things;Please+Do+Not+Hesitate+To+Open+An+Issue+Or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
 
  </center>
  
