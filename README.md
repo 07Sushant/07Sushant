@@ -25,7 +25,7 @@
 - 👨‍🏭 A B-Tech undergrad majoring in **CSE** <br>
 - 🏫 I’m currently learning **Python, Web Devlopment, C, MySQL and Cyber Security** <br>
 - 🙌 I’m looking to collaborate on **Web Development** <br>
-- 🥅 2023 Goals: **To maximize my productivity and gain more and more knowledge in the domain of CSEI love challenges because everything that kills me makes me feel alive.
+- 🥅 2023 Goals: **To maximize my productivity and gain more and more knowledge in the domain of CSE **"I love challenges because everything that kills me makes me feel alive."**
 "** <br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
