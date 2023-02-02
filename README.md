@@ -113,6 +113,12 @@
 </a>
 </p>
 
+<center>
+ <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&width=1080&lines=Thank+You+for+Visiting+And+Happy+Coding..." alt="Typing SVG" /></a>
+  
+  
+
 <p style="color: red;" align="right" >Last Update on: 27 Jan 2023 </p>
 
 <a href="https://www.linkedin.com/in/07Sushant/">
