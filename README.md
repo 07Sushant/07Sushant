@@ -128,11 +128,12 @@
   
   
 
-<p style="color: red;" align="right" >Last Update on: 27 Jan 2023 </p>
+
 
 <a href="https://www.linkedin.com/in/07Sushant/">
 
  <img src="https://github.com/07Sushant/07Sushant/blob/main/assets/circleprofile.png" alt="" style="max-width: 100%;">
+ <p align="right" dir="auto">Last Update on: 13 Jan 2023 </p>
  <br>
   <img src="https://github.com/07Sushant/07Sushant/blob/main/assets/footer2.png" alt="" style="max-width: 100%;">
 
