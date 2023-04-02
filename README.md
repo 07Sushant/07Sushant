@@ -134,8 +134,7 @@
 
  <img src="https://github.com/07Sushant/07Sushant/blob/main/assets/circleprofile.png" alt="" style="max-width: 100%;">
  <br>
-  <img src="https://github.com/03prashantpk/03prashantpk/raw/main/assets/profile-cloud.png" alt="" style="max-width: 100%;">
-  <img src="https://github.com/03prashantpk/03prashantpk/raw/main/assets/footer2.png" alt="" style="max-width: 100%;">
+  <img src="https://github.com/07Sushant/07Sushant/blob/main/assets/footer2.png" alt="" style="max-width: 100%;">
 
  
  
