@@ -128,6 +128,11 @@
 <a href="https://www.linkedin.com/in/07Sushant/">
 
  <img src="https://github.com/07Sushant/07Sushant/blob/main/assets/circleprofile.png" alt="" style="max-width: 100%;">
+ <br>
+  <img src="[https://github.com/07Sushant/07Sushant/blob/main/assets/circleprofile.png](https://github.com/07Sushant/07Sushant/blob/main/assets/footer2.png)" alt="" style="max-width: 100%;">
+
+ 
+ 
 
 
 </a>
