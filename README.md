@@ -12,12 +12,9 @@
  
  ## TOP NEW PROJECTS
  My Recent Projects: <br>
-
-
-
-1.
- <a href="https://www.linkedin.com/posts/07sushant_a-hands-free-voice-enabled-device-that-tell-activity-7018974459038478336-uj32?utm_source=share&utm_medium=member_desktop%22%3E2"> Voice Enabled Temperature Sensor</a></a>
- 
+ 1.
+ <a href="https://github.com/07Sushant/Shopping-simulation/tree/main"> Shopping simulation</a></a>
+ <br>
  2.
  <a href="https://enally.in/sushant"> Portfolio</a> Visit <a href='https://1drv.ms/b/s!ArbngJE8urocgYYKShrZgZO6VeFXLA'>My Resume</a>
  <br>
