@@ -3,7 +3,7 @@
 
 <h1 align="center">
 नमस्ते | Namaste<img src="https://github.com/07Sushant/07Sushant/blob/main/assets/coding_.png" width="50px"> <br>
- <h1 align="left">Hello, I'm Sushant<img src="https://raw.githubusercontent.com/avinal/avinal/main/images/butterfly.gif" width=30%><img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width=20%>
+ <h1 align="left">Hello, I'm Sushant<img src="https://github.com/07Sushant/07Sushant/blob/main/assets/butterfly.gif" width=30%><img src="https://github.com/07Sushant/07Sushant/blob/main/assets/dog.gif" width=20%>
 <h5 align="center">
 </h1>
 
