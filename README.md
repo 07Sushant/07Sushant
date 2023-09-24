@@ -1,4 +1,5 @@
-![](https://github.com/07Sushant/07Sushant/blob/main/assets/header.png)
+![](<img src="https://raw.githubusercontent.com/07Sushant/07Sushant/main/assets/header.png">
+)
 
 
 <h1 align="center">
