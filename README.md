@@ -1,7 +1,10 @@
 ![](https://github.com/07Sushant/07Sushant/blob/main/assets/header.png)
 
+
 <h1 align="center">
-नमस्ते (Namaste), Hi there, Sushant  <img src="https://github.com/07Sushant/07Sushant/blob/main/assets/coding_.png" width="50px"> <br>
+नमस्ते | Namaste<img src="https://github.com/07Sushant/07Sushant/blob/main/assets/coding_.png" width="50px"> <br>
+ <h1 align="left">Hello, I'm Sushant<img src="https://raw.githubusercontent.com/avinal/avinal/main/images/butterfly.gif" width=30%><img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width=20%>
+<h5 align="center">
 </h1>
 
 <p align="center">
@@ -13,12 +16,15 @@
  ## TOP NEW PROJECTS
  My Recent Projects: <br>
  1.
- <a href="https://enally.in/sushant"> Portfolio</a> Visit <a href='https://1drv.ms/b/s!ArbngJE8urocgYYKShrZgZO6VeFXLA'>My Resume</a>
+ <a href="https://github.com/07Sushant/Shopping-simulation/tree/main"> Shopping simulation</a></a>
  <br>
  2.
- <a href="https://www.linkedin.com/posts/07sushant_a-hands-free-voice-enabled-device-that-tell-activity-7018974459038478336-uj32?utm_source=share&utm_medium=member_desktop%22%3E2"> Voice Enabled Temperature Sensor</a></a>
+ <a href="https://enally.in/sushant"> Portfolio</a> Visit <a href='https://1drv.ms/b/s!ArbngJE8urocgYYKShrZgZO6VeFXLA'>My Resume</a>
  <br>
  3.
+ <a href="https://www.linkedin.com/posts/07sushant_a-hands-free-voice-enabled-device-that-tell-activity-7018974459038478336-uj32?utm_source=share&utm_medium=member_desktop%22%3E2"> Voice Enabled Temperature Sensor</a></a>
+ <br>
+ 4.
  <a href="https://enally.in/sushant/UMS">3. University Management System</a><br>
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/07Sushant/07Sushant/blob/main/assets/keep_coding.gif">
