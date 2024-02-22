@@ -34,7 +34,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=07Sushant) -->
 
-![](https://komarev.com/ghpvc/?username=07Sushant&color=ff0000&label=Welcome,+Please+Come+In+Visitor) ![](https://hit.yhype.me/github/profile?user_id=43730425)<br>
+![](https://hit.yhype.me/github/profile?user_id=43730425&repo=Design-Analysis-and-Algorithm)
 
 ### Software Engineer
 
