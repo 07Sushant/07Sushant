@@ -145,7 +145,6 @@ dfjhdfkj
  <p align="right" dir="auto">Last Update on: 13 Jan 2023 </p>
  <br>
   <img src="https://github.com/07Sushant/07Sushant/blob/main/assets/footer2.png" alt="" style="max-width: 100%;">
-![](https://hit.yhype.me/github/profile?user_id=07Sushant)
  
  
 
