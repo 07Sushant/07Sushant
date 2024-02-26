@@ -14,7 +14,6 @@
  </center>
  
  ## TOP NEW PROJECTS
-<<<<<<< HEAD
 
 **0. [Spam Detector](https://07sushant.github.io/SMS-Spam-Detection)**
 - Description: Spam-Detection Model Trained using Data Science and Machine Learning and Deployed online..
@@ -31,28 +30,7 @@
 
 **4. [Data Science and Statistics](https://flaskapplication.enally.in/)**
 - Description: Mathematics, Me, and Data🔥.
-
-
-
-
-
-=======
- My Recent Projects: <br>
- 1.
- <a href="https://07sushant.github.io/SMS-Spam-Detection/"> Spam Detector</a></a>
- <br>
- 2.
- <a href="https://github.com/07Sushant/Shopping-simulation/tree/main"> Shopping Simulation</a></a>
- <br>
- 3.
- <a href="https://enally.in/sushant"> Portfolio</a> Visit <a href='https://1drv.ms/b/s!ArbngJE8urocgYYKShrZgZO6VeFXLA'> My Resume</a>
- <br>
- 4.
- <a href="https://www.linkedin.com/posts/07sushant_a-hands-free-voice-enabled-device-that-tell-activity-7018974459038478336-uj32?utm_source=share&utm_medium=member_desktop%22%3E2"> Voice Enabled Temperature Sensor</a></a>
- <br>
- 5.
- <a href="https://enally.in/sushant/UMS"> University Management System</a><br>
->>>>>>> d92905a1e7273ce3e38af506e5e1eb3d82d2960a
+- 
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/07Sushant/07Sushant/blob/main/assets/keep_coding.gif">
 
@@ -62,10 +40,12 @@
 ### Software Engineer
 
 - 👨‍🏭 A B-Tech undergrad majoring in **CSE** <br>
-- 🏫 I’m currently learning **Python, Web Devlopment, C, MySQL and Cyber Security** <br>
-- 🙌 Trying To Get Freiendly With Popular Environment  **** <br>
-- 🥅 2024 Goals: **To make Live Projects"I love challenges because everything that kills me makes me feel alive."
-** <br>
+- 🏫 I’m currently learning **R-Programming, Java, Linear-Regression, Machine Learning and Cyber Security** <br>
+- 🙌 Trying To Get Freiendly With Popular Environments<br>
+- 🥅 2024 Goals: **To make Live Projects
+  <br>
+  <br>
+- 🎯 "I love challenges because everything that kills me makes me feel alive."<br>
 
 🕵 Take a look at my repositories and let's get in touch!<br>
 <!-- Sushant --> 
