@@ -30,7 +30,6 @@
 
 **4. [Data Science and Statistics](https://flaskapplication.enally.in/)**
 - Description: Mathematics, Me, and Data🔥.
-- 
 <br>
 <img align="right" alt="coding" width="250" src="https://github.com/07Sushant/07Sushant/blob/main/assets/keep_coding.gif">
 
