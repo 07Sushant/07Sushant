@@ -25,7 +25,7 @@
 **2. [Voice Enabled Temperature Sensor](https://www.linkedin.com/posts/07sushant_a-hands-free-voice-enabled-device-that-tell-activity-7018974459038478336-uj32?utm_source=share&utm_medium=member_desktop%22%3E2)**
 - Description: A hands-free voice enabled device that tell the current temperature.
 
-**3. [University Management System](https://enally.in/sushant/UMS)**
+**3. [University Management System](https://07sushant.github.io/University-Management-System-/)**
 - Description: University Management System Webpage
 
 **4. [Data Science and Statistics](https://flaskapplication.enally.in/)**
